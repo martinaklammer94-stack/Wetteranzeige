@@ -1,5 +1,5 @@
-// Declare API Key and URL
-const apiKey = "7202c7eb97cfa53e3b17dd32a3c296c8";
+// Declare API Key and URL (create your personal API Key on openweathermap.org)
+const apiKey = "xxx";
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
